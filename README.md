@@ -1,7 +1,10 @@
 # Power Platform Custom Connector
-Progetto webapi .net 5 per la realizzazione di un connettore custom per PowerApps Canvas.
 
+Semplice Progetto webapi .net5 per consumare un set di API in un connettore custom per PowerApps Canvas.
 
+#Info</br>Per realizzare il connettore custom è possibile usare il file swagger.json.</br>
+Nel file swagger.json è necessario aggiungere alla proprietà host il nome dell'endpoint pubblicato.</br>
+Nella Powerapps Canvas è stata inserita un'immagine SVG per gestire tramite valriabile il colore delle Room.
 
 
 
