@@ -1,0 +1,132 @@
+{
+	"swagger": "2.0",
+	"info": {
+		"title": "Device",
+		"Status",
+		"description": "",
+		"version": "1.0"
+	},
+	"host": "",
+	"basePath": "/",
+	"schemes": [ "https" ],
+	"consumes": [],
+	"produces": [],
+	"paths": null,
+	"/api/MeetingRoomBooking": null,
+	"get": null,
+	"responses": null,
+	"default": null,
+	"description": "default",
+	"schema": null,
+	"type": "array",
+	"items": null,
+	"type": "object",
+	"properties": null,
+	"guid": {
+		"type": "string",
+		"description": "guid"
+	},
+	"name": {
+		"type": "string",
+		"description": "name"
+	},
+	"statusLocation": {
+		"type": "integer",
+		"format": "int32",
+		"description": "statusLocation"
+	},
+	"device": null,
+	"type": "object",
+	"properties": null,
+	"guid": {
+		"type": "string",
+		"description": "guid"
+	},
+	"name": {
+		"type": "string",
+		"description": "name"
+	},
+	"timestamp": {
+		"type": "string",
+		"description": "timestamp"
+	},
+	"percentualStatus": {
+		"type": "integer",
+		"format": "int32",
+		"description": "percentualStatus"
+	},
+	"errorInfo": {
+		"type": "string",
+		"description": "errorInfo"
+	},
+	"description": "device",
+	"headers": null,
+	"Content-Type": {
+		"description": "Content-Type",
+		"type": "string"
+	},
+	"summary": "Get",
+	"List" "Status",
+	"Room": null,
+	"description": "Ottieni",
+	"ListaMeeting" "Device",
+	"operationId": "GetListMeetingRoom",
+	"parameters": [],
+	"/api/MeetingRoomBooking/update": null,
+	"put": null,
+	"responses": null,
+	"default": null,
+	"description": "default",
+	"schema": null,
+	"type": "object",
+	"properties": null,
+	"code": {
+		"type": "string",
+		"description": "code"
+	},
+	"description": {
+		"type": "string",
+		"description": "description"
+	},
+	"headers": null,
+	"Content-Type": {
+		"description": "Content-Type",
+		"type": "string"
+	},
+	"summary": "Update",
+	"Status" "Room",
+	"description": "Aggiornamento",
+	"Status" "Meeting",
+	"Room": null,
+	"operationId": "UpdateStatusMeetingRoom",
+	"parameters": "-",
+	{
+		"name": "API-KEY",
+		"in": "header",
+		"required": false,
+		"type": "string"
+	},
+	"-": null,
+	"name": "body",
+	"in": "body",
+	"required": false,
+	"schema": null,
+	"type": "object",
+	"properties": null,
+	"name": {
+		"type": "string",
+		"description": "name"
+	},
+	"value": {
+		"type": "integer",
+		"format": "int32",
+		"description": "value"
+	},
+	"definitions": {},
+	"parameters": {},
+	"responses": {},
+	"securityDefinitions": {},
+	"security": [],
+	"tags": []
+
+}
