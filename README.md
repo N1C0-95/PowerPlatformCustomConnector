@@ -1,2 +1,2 @@
-# PowerPlatformCustomConnector
-Connettori custome per Power Platform
+# Power Platform Custom Connector
+Progetto web api .net 5 per connettore custom PowerPlatform
